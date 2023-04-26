@@ -1,7 +1,7 @@
 # Small-React-Projects
 
-#Color Changer App 
-##Create an app that displays a box with a background color. Add two buttons, one to change the color to red and one to change it to blue.
+# Color Changer App 
+## Create an app that displays a box with a background color. Add two buttons, one to change the color to red and one to change it to blue.
 
 #Number Guessing Game 
 ##Create a game where the user has to guess a random number between 1 and 10. Display a message if the guess is correct or incorrect.
