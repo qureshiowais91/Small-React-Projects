@@ -9,10 +9,11 @@ function App() {
     if(value!=0){
       setFlag("not in range")
     }
-    else if(value === Math.random()*10 ){
+    else if(value === parseInt(Math.random()*10) ){
       setFlag(true)
     }else{
       setFlag(false)
+      console.log("value")
     }
   }
   return (

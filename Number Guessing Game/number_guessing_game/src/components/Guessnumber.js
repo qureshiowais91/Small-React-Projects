@@ -2,6 +2,8 @@ function Guessnumber(prop) {
   function submitHandler(event){
     event.preventDefault()
     prop.enteredNumber(event.target[0].value)
+    console.log(event.target[0].value)
+
   }
 
   return (
